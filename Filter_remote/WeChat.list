@@ -1,1 +1,14 @@
-DOMAIN-SUFFIX,baidu.com
+# > 图书馆
+host-suffix, z-library.se, 手动选择
+# > 壁纸站
+host-suffix, wallhaven.cc, 手动选择
+# E站分流
+host-suffix, e-hentai.org, 手动选择
+# 🐿️
+host, caitlin.top, proxy
+# > ASMR分流
+host-suffix, dlsite.com, 手动选择
+host, api.asmr-200.com, ASMR
+host, fast2.kiko-play-niptan.one, ASMR
+host-suffix, raw2.kiko-play-niptan.one, ASMR
+host, domainrraw2.kiko-play-niptan.oneames.com, direct
