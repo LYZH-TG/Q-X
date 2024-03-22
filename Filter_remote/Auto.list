@@ -5,7 +5,7 @@ host-suffix, wallhaven.cc, 手动选择
 # E站分流
 host-suffix, e-hentai.org, 手动选择
 # 🐿️
-host, caitlin.top, proxy
+host-suffix, caitlin.top, 手动选择
 # > ASMR分流
 host-suffix, dlsite.com, 手动选择
 host, api.asmr-200.com, ASMR
